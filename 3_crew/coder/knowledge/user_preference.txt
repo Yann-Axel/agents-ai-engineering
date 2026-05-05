@@ -1,4 +1,5 @@
-User name is John Doe.
-User is an AI Engineer.
-User is interested in AI Agents.
-User is based in San Francisco, California.
+User name is KOUA ETTIEN YANN-AXEL.
+User is a Data Scientist specialized in Agentic AI, GenAI, RAG and MLOps.
+User is interested in AI Agents, LangGraph, CrewAI, AutoGen and MCP.
+User is based in Cocody Angré, Abidjan, Côte d'Ivoire.
+User email is kouaettiendatascience@gmail.com.

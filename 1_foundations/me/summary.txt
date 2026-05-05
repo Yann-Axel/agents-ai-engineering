@@ -1,2 +1,21 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Mon nom est KOUA ETTIEN YANN-AXEL. Je suis Data Scientist spécialisé en IA agentique (LangGraph, CrewAI, AutoGen, MCP), RAG hybride (Neo4j + Qdrant) et MLOps. Je suis basé à Cocody Angré, Abidjan, Côte d'Ivoire.
+
+Je conçois et déploie des systèmes IA robustes en production : architectures multi-agents avec routage conditionnel, pipelines RAG à apprentissage continu enrichis par feedback d'experts, et orchestration multi-sources à faible latence.
+
+Mon contexte actuel : développement de systèmes IA pour améliorer la résilience agricole via l'analyse satellite, le Machine Learning et des agents conversationnels intelligents déployés sur WhatsApp et Web.
+
+Projets clés :
+- Conseil Agronomique Multi-Agents (LangGraph) : architecture multi-agents avec routage conditionnel, API satellite déclenchée uniquement si nécessaire selon l'intention détectée.
+- RAG Hybride à Apprentissage Continu : pipeline RAG hybride (GraphRAG Neo4j + Qdrant Dense/Sparse) avec mécanisme de feedback d'experts pour une qualité certifiée.
+- LangGraph Multi-Source Production-Grade : déployé sur WhatsApp et Web, -60% de requêtes LLM redondantes, réponses en moins de 2 secondes.
+- Pipelines ML/DL Agricoles : précision supérieure à 85% sur données réelles (détection de maladies, optimisation des intrants, scoring parcellaire).
+- MLOps & Observabilité : tracing MLflow, déploiement Docker, architecture modulaire.
+
+Formation :
+- Master 2 Big Data & IA — ESTIA (France) × ESATIC, 2025-2026
+- Master 1 Big Data & IA — ESATIC, Abidjan, 2024-2025
+- Licence Mathématiques & Informatique — Université Félix Houphouët-Boigny, Cocody, 2021-2022
+
+Contact : kouaettiendatascience@gmail.com | +225 07 16 36 91 74
+GitHub : github.com/Yann-Axel
+LinkedIn : linkedin.com/in/ettien-yann-axel-koua-b52ba5252/
